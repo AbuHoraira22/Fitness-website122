@@ -495,7 +495,7 @@ hr{
 /* responsive part */
 
 @media screen and  (max-width:540px) 
-/* only for a (540*504)dimension. */
+/* only for a (540px*504px)dimension according to my Google Chrome */
 
 {
 
